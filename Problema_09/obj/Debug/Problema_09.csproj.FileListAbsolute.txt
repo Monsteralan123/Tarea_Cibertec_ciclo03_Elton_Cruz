@@ -1,0 +1,7 @@
+C:\Users\elton\source\repos\ConsoleApp2\Problema_09\bin\Debug\Problema_09.exe.config
+C:\Users\elton\source\repos\ConsoleApp2\Problema_09\bin\Debug\Problema_09.exe
+C:\Users\elton\source\repos\ConsoleApp2\Problema_09\bin\Debug\Problema_09.pdb
+C:\Users\elton\source\repos\ConsoleApp2\Problema_09\obj\Debug\Problema_09.csproj.AssemblyReference.cache
+C:\Users\elton\source\repos\ConsoleApp2\Problema_09\obj\Debug\Problema_09.csproj.CoreCompileInputs.cache
+C:\Users\elton\source\repos\ConsoleApp2\Problema_09\obj\Debug\Problema_09.exe
+C:\Users\elton\source\repos\ConsoleApp2\Problema_09\obj\Debug\Problema_09.pdb
